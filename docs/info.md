@@ -8,13 +8,10 @@ You can also include images in this folder and reference them in the markdown. E
 -->
 
 ## How it works
-
-Explain how your project works
-
+The display will move from right to left, showing a black-and-white combination 
+Explain how your project works 
 ## How to test
-
-Explain how to use your project
-
+Check in the code that the display will move in black and white 
 ## External hardware
-
+LED Display 
 List external hardware used in your project (e.g. PMOD, LED display, etc), if any
